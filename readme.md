@@ -32,20 +32,20 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 ---
 
 ## 📑 Reports & Deliverables
-- [Final Report (PDF)](reports/Impact_of_Air_Pollution_on_Public_Health.pdf)  
+- [Final Report (PDF)](report/Impact of Air Pollution on Public Health.pdf)  
 
 ---
 
 ## 📊 Sample Visualizations
 
 ### Top 10 Cities by Average PM2.5 (2024)
-![PM2.5 Top Cities](reports/images/pm25_top_cities.png)
+![PM2.5 Top Cities](report/images/pm25_top_cities.png)
 
 ### Feature Importance: Impact of Pollutants on AQI
-![Feature Importance](reports/images/feature_importance.png)
+![Feature Importance](report/images/feature_importance.png)
 
 ### Top 10 Cities by Health Burden Index (HBI)
-![Health Burden Index](reports/images/hbi_top10.png)
+![Health Burden Index](report/images/hbi_top10.png)
 
 ---
 
