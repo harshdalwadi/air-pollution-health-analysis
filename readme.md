@@ -29,6 +29,10 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 - **O₃ (ozone)** also proved highly influential in driving respiratory and cardiovascular outcomes.  
 - The **Health Burden Index (HBI)** provided a composite ranking of cities, with **Paris** topping hospital admissions and overall health burden.  
 
+---
+
+## 📑 Reports & Deliverables
+- [Final Report (PDF)](reports/Impact_of_Air_Pollution_on_Public_Health.pdf)  
 
 ---
 
@@ -45,10 +49,29 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 
 ---
 
+## 📈 Dataset
+- **Files:**  
+  - `global_air_quality_dataset.csv`  
+  - `air_quality_health_impact_data.csv`  
+- **Sources:**  
+  - [Kaggle: Global Urban Air Quality Index Dataset (2015–2025)](https://www.kaggle.com/datasets/syedmtalhahasan/global-urban-air-quality-index-dataset-2015-2025)  
+  - [World Health Organization – Air Pollution Factsheet](https://www.who.int/health-topics/air-pollution)  
+
+---
+
 ## 🛠️ Tools & Libraries
 - **Python:** pandas, numpy, matplotlib, seaborn, scikit-learn  
 - **Environments:** Jupyter Notebook, Google Colab  
 - **Documentation:** Word, PDF, PowerPoint  
+
+---
+
+## 📚 Key Learnings
+- Strengthened skills in handling **multi-source datasets** (pollution, weather, health indicators).  
+- Applied **correlation methods** (Pearson, Spearman) to real-world health data.  
+- Built a **Random Forest regression model** to predict health outcomes with good accuracy.  
+- Designed a **Health Burden Index (HBI)** to compare cities, turning raw data into actionable insights.  
+- Enhanced ability to present findings across formats: **Jupyter Notebook, report, presentation, and video**.  
 
 ---
 
