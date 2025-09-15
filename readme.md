@@ -32,7 +32,7 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 ---
 
 ## 📑 Reports & Deliverables
-- [Final Report (PDF)](report/Impact_of_Air_Pollution_on_Public_Health.pdf)  
+- [Final Report (PDF)](report/Impact of Air Pollution on Public Health.pdf)  
 
 ---
 
