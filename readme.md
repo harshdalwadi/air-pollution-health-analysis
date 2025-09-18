@@ -32,7 +32,7 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 ---
 
 ## 📑 Reports & Deliverables
-- [Final Report (PDF)](report/Impact of Air Pollution on Public Health.pdf)  
+- [Final Report (PDF)](report/Impact_of_Air_Pollution_on_Public_Health.pdf)  
 
 ---
 
@@ -71,7 +71,6 @@ The goal is to identify the cities and pollutants most strongly linked to **resp
 - Applied **correlation methods** (Pearson, Spearman) to real-world health data.  
 - Built a **Random Forest regression model** to predict health outcomes with good accuracy.  
 - Designed a **Health Burden Index (HBI)** to compare cities, turning raw data into actionable insights.  
-- Enhanced ability to present findings across formats: **Jupyter Notebook, report, presentation, and video**.  
 
 ---
 
